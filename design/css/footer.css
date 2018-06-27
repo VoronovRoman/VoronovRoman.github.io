@@ -1,0 +1,24 @@
+/*footer*/
+
+footer{
+	margin: 0 auto;
+	text-align: center;
+}
+
+footer p{
+	font-size: 14px;
+	margin-bottom: 35px;
+	position: relative;
+}
+footer p:before{
+	content: "";
+	display: block;
+	background: url(../img/footer.png) no-repeat center;
+	background-size: cover;
+	width: 40px;
+	height: 42px;
+	filter: invert(1);
+	position: absolute;
+	right: calc((100% + 330px)/2);
+	bottom: -5px;
+}

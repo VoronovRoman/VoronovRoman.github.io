@@ -1,0 +1,49 @@
+@font-face {
+  font-family: Lato;
+  src: url(../fonts/Lato-Bla.ttf);
+  font-weight: 900; }
+
+@font-face {
+  font-family: Lato;
+  src: url(../fonts/Lato-BlaIta.ttf);
+  font-weight: 900; }
+
+@font-face {
+  font-family: Lato;
+  src: url(../fonts/Lato-Bol.ttf);
+  font-weight: 700; }
+
+@font-face {
+  font-family: Lato;
+  src: url(../fonts/Lato-BolIta.ttf);
+  font-weight: 700; }
+
+@font-face {
+  font-family: Lato;
+  src: url(../fonts/Lato-Reg.ttf);
+  font-weight: 400; }
+
+@font-face {
+  font-family: Lato;
+  src: url(../fonts/Lato-RegIta.ttf);
+  font-weight: 400; }
+
+@font-face {
+  font-family: Lato;
+  src: url(../fonts/Lato-Lig.ttf);
+  font-weight: 300; }
+
+@font-face {
+  font-family: Lato;
+  src: url(../fonts/Lato-LigIta.ttf);
+  font-weight: 300; }
+
+@font-face {
+  font-family: Lato;
+  src: url(../fonts/Lato-Hai.ttf);
+  font-weight: 100; }
+
+@font-face {
+  font-family: Lato;
+  src: url(../fonts/Lato-HaiIta.ttf);
+  font-weight: 100; }
